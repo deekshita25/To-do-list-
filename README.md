@@ -8,4 +8,4 @@ Features
 4. Intuitive layout with thoughtful padding and alignment for visual ease
 5. Modular codebase to make customization and extension a breeze
 
-To get this app use the background image (Note-it.jpg) I have uploaded above and run the source code in your python interpreter.
+To get this app use the background image (Note-it.jpg) I have uploaded above and run the source code (Note-it.py) in your python interpreter.
